@@ -1,4 +1,4 @@
-# AFM 423 Summative
+# AFM 423 Momentum Summative
 This is a summative assignment for AFM 423. This contains the initial literature survey (GPR #1), testing of machine learning algorithms (the three sequential code files), and the final report (GPR #2).
 
 The Jupyter Notebook coding files can be viewed in a markdown format with a clear process by just clicking on the files, or can be run by downloading them along with the data.
